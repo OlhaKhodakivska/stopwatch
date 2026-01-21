@@ -28,3 +28,7 @@ The interface visually indicates the current stopwatch state using background co
   - Silver — reset
 
 ## Project Structure
+- index.html — markup
+- style.css — styles
+- script.js — stopwatch logic
+
